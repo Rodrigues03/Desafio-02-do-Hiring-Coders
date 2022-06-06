@@ -59,6 +59,3 @@ Quanto a esses modelos de programação, julgue os itens:
 [..]
 Sua resposta: Todas alternativas estão corretas
 Resposta correta: Todas alternativas estão corretas. Tudo abaixo está com afirmativas verdadeiras, está apontado nos itens algumas vantagens e desvantagens de cada modelo..
-
-Abraços,
-Bruce da Gama Academy!
